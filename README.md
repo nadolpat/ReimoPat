@@ -1,6 +1,8 @@
 <h1>👋 Hello Welcome to my Github</h1>
-👩‍💻 About Me
-🌱 I’m currently study at Thai-Nichi Institute of Technology
+<h2>👩‍💻 About Me</h2>
+&emsp;<b>-🌱 I’m currently study at Thai-Nichi Institute of Technology...</b>
+<br>
+<h3>🛠 Language and tools</h3>
 
 
 <!---
